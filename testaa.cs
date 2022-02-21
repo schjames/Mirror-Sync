@@ -1,7 +1,7 @@
 using System;
 using UnitySerializationHolder
 
-public viod test(string str)
+public void test(string str)
 {
   debug.log("test");
 }
